@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-truffle",
+  "version": "1.0.0",
+  "description": "nodejs-truffle ===",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "openzeppelin-solidity": "^2.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeonghun-Ban/nodejs-truffle.git"
+  },
+  "author": "Jeonghun-Ban",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jeonghun-Ban/nodejs-truffle/issues"
+  },
+  "homepage": "https://github.com/Jeonghun-Ban/nodejs-truffle#readme"
+}
