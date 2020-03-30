@@ -9,7 +9,10 @@
   "dependencies": {
     "openzeppelin-solidity": "^2.5.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "openzeppelin-test-helpers": "^0.5.1"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
